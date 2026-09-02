@@ -15,17 +15,19 @@ or click multiple times to get to the login screen. For this part, I (Ianna) des
 <br> <img src= "Onboarding Pages.png" width="300"> 
 <br>
 <img src= "Login.png" width="150"> <br> The login screen pops up after the onboarding page OR after the first time the user opens up the app. One thing to add is the ability to create accounts, because the app has not been coded
-to create user accounts. 
+to create user accounts. Ianna made this page
 <br>
-<img src="Main Center.png" width="150"> <br> This is what pops up after the user log ins. They are given an array of choices, including the bottom icons to decide where to go from there.
+<img src="Main Center.png" width="150"> <br> This is what pops up after the user log ins. They are given an array of choices, including the bottom icons to decide where to go from there. Christian made this page.
 <br>
-<img src="Discover.png" width="150"> <br> On this page, the user can search up anything to discover posts and forums.
+<img src="Discover.png" width="150"> <br> On this page, the user can search up anything to discover posts and forums. Christian made this page.
 <br>
-<img src="Favorites.png" width="150"> <br> This page, the user can view what posts they have favorited.
+<img src="Favorites.png" width="150"> <br> This page, the user can view what posts they have favorited. Christian made this page.
 <br>
-<img src="New Post.png" width="150"> <br> Next, the "New Post" page allows the user to create and send out new posts.
+<img src="New Post.png" width="150"> <br> Next, the "New Post" page allows the user to create and send out new posts. Christian made this page.
 <br>
-Lastly, this page allows the user to change its settings. <img src="Settings.png" width="150">
+Lastly, this page allows the user to change its settings. Christian made this page. <img src="Settings.png" width="150">
+
+### ** Overall, huge thanks to Alejandro for coming up with the idea and gathering all of the sources. His ability to gather and searched for resources allowed Christian to create the discovers page!
 
 ## What To Work On
 Currently, this file is slightly corrupted, but is the only file where we were able to connect every button to each page in order to offer our audience a realistic point of view as
